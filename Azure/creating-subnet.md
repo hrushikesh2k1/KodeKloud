@@ -7,6 +7,6 @@ Approach:
 2. Search for Virtual networks service and create one.
 3. Give devops-vnet as name and East US as location.
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b84af557-e7a2-49d2-8273-56e95d085be5" />
-4. Under IP address section, a default vnet address block and subnet block is created. Leave it as it is.
-   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d8c143fc-d7ea-4e93-8f8b-ae8b90a21fd1" />
+4. Under IP address section, a default vnet address block is created. Change the name of default subnet to devops-subnet, click save.
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/15372dac-9851-4fd1-a0d3-490fbb187d8e" />
 5. click on review + create.
