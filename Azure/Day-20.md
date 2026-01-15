@@ -21,4 +21,5 @@ az deployment group create \
   --resource-group <RESOURCE_GROUP_NAME> \
   --template-file /root/arm-templates/vnet-deployment-template.json
 ```
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4fdee36d-d1a3-4e34-af20-b985e58c7d07" />
